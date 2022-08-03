@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+
 deploy:
   type: git        
   repo: https://github.com/BlazerQuasar/BlazerQuasar.github.io.git             
